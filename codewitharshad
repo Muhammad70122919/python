@@ -1,0 +1,19 @@
+Task 1:
+print('"We aer learning",','he said')
+print('he said,'"i\'m learning")
+Task 2:
+#write a programe that calculate the radius area
+
+pie=3.14
+radius=3.12
+area=pie*(radius*radius)
+print(area)
+Task 3:
+#print with cancatination and print simple
+
+first_name=input()          #arshad
+last_name=input()           #ali
+sap_id=input()              #70122919
+cont=(first_name+last_name)
+print(cont)
+print(last_name,first_name)
